@@ -1,1 +1,1 @@
-# Infra-As-Code
+# infra-as-code
